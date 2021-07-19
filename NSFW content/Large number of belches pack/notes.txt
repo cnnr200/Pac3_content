@@ -1,0 +1,11 @@
+Dry = what it means, there's no reverb or EQ on it
+150% = the belch was stretched to 150% the time by resampling, which means the belch is 150% as long, and much lower in pitch
+Deeper = Pitch was taken down, nothing else
+Deeper Inside = yes I know, the folder name is a bit redundant, anyway, it just means it sounds like you're inside a bigger/larger pred than before, even deeper in there, y'dig?
+Inside = EQ and some stereo was added to make it sound like you're hearing it from the inside
+Reverb Heavy = what it says, heavy amount of reverb
+Short delay = A bit of delayed echo was added in
+
+Freesound pack = stuff done with belches from http://www.freesound.org/people/plingativator/
+
+Other randoms = I don't know if any of these are repeats from what was used in the other folders, but one day I was just messing around and making a bunch of them and it was like shrugggggg these sound fine enough to throw out as miscellanious burps for whoever wants them
